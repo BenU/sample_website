@@ -1,3 +1,7 @@
+.image-link {
+  text-decoration: none;
+}
+
 .nav-menu {
   text-align: right;
 }
@@ -7,4 +11,47 @@
 }
 .nav-spacing {
   margin-left: 10px;
+}
+
+.header-report {
+  text-align: center; 
+  margin: 0 0 80px;
+}
+
+.image-nature {
+  display: block; 
+  margin: 0 auto;
+}
+
+.image-book {
+  float: left; 
+  margin: 0 40px;
+}
+
+.table-data {
+  padding: 10px;
+}
+
+.quotes-book {
+  font-size: 20px; 
+  font-style: italic;
+}
+
+.quotes-book-first {
+  font-style: nornal; 
+  font-size: 24px; 
+  font-weight: bold; 
+  color: red;
+}
+
+.quotes-web {
+  padding: 2px 20px; 
+  background: #c5c5c5;
+}
+
+.book-box {
+  width: 500px; 
+  margin: 20px auto; 
+  padding: 30px; 
+  background-color: #fafafa;"
 }
